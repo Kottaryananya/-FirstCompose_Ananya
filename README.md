@@ -1,6 +1,6 @@
 # FirstCompose_Ananya
 
-## Task 1 – Project Setup & Run Walkthrough
+## Task – Project Setup & Run Walkthrough
 
 This project was created to confirm that my Android Studio environment is properly set up and ready for Jetpack Compose development.
 
